@@ -1,0 +1,10 @@
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\bin\Debug\Task.exe
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\bin\Debug\Task.pdb
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\obj\Debug\Task.exe
+C:\Users\Denis_Balashevich\Desktop\Mentoring\03. LINQ\Task\Task\Task\obj\Debug\Task.pdb
